@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 😊 I'm interested in web development and Data Science
+- 😊 I'm interested in web development, Data Science and Artifical Intelligence
 - 😃 I'm a front-end developer
 - 🌱 I’m improving my front-end development skills and currently learning data science 
 - 👯 I’m looking to collaborate on Web development and data science-related projects
